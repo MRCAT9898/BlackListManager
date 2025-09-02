@@ -13,7 +13,8 @@ namespace BlackListManager
         public static List<string> BlackList { get; set; } = new List<string>()
         {
             "BadWord1",
-            "BadWord2"
+            "BadWord2",
+            "BadWord3"
         };
     }
 }
